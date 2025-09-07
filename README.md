@@ -14,12 +14,10 @@ On Box's end, you will need to create and register an app to gain access to the 
 
 Install dependencies
 Run:
-
-bash
-Copy code
+```
 pip install -r requirements.txt
-
-```bash
+```
+```
 python sproutbox.py
 ```
 
